@@ -1,11 +1,5 @@
-#introduce <stdio.h>  
-
-main()  
-
-{  
-
-  printf("tu vê só né");  
-  
-  }  
-  
-return(0)
+#include <stdio.h>  
+int main() {  
+  printf("Hello you\n");  
+  return 0;
+}  
